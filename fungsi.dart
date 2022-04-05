@@ -5,7 +5,7 @@ void main() {
     return nilai (sesuai tipe);
   } */
 
-  String nama = 'My name is Alfi';
+  String nama = 'My name is Raka';
   perkenalan(nama);
 
   int panjang = 8;
